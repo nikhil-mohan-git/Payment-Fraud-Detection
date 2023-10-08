@@ -19,3 +19,8 @@ My project aims to deliver a comprehensive analysis of this dataset, beginning w
 ### Methodology:
 
 To determine the most effective fraud detection model, I employ a variety of machine learning algorithms. These models will be rigorously evaluated and compared, using statistical metrics to gauge their performance. My ultimate goal is to identify the model that excels in detecting fraudulent transactions while minimizing false positives and false negatives.
+
+
+### Dataset:
+
+You can download the file from the following link - https://www.kaggle.com/datasets/ealaxi/paysim1/download?datasetVersionNumber=2
